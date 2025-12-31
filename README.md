@@ -1,16 +1,102 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=900&color=6EE7F9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Riddhi+%F0%9F%91%8B;BCA+Student+%7C+Web+Developer;Growing+Step+by+Step" />
+</p>
 
-<!--
-**riddhi348/riddhi348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <sub>BCA Student • Web Developer • Tech Anthusiast • Ex- Intern @ ACCENTURE</sub>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BCA student at **Dr. Virendra Swaroop Institute of Computer Studies**
+- 🌱 Currently learning **Web Development**, **AI**, and **Machine Learning**
+- 🧠 Focused on building **strong fundamentals**
+- 🎯 Goal: Become a confident developer.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,c++"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+<sub>Currently learning React.js</sub>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+<sub>Currently learning Node.js</sub>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+<sub>Learning MongoDB</sub>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+<sub>Learning Machine Learning basics</sub>
+
+### 🎨 Graphic Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=canva" />
+</p>
+<sub>Learning Canva</sub>
+
+---
+
+## 📌 What I’m Working On
+
+- Improving my **web development skills**
+- Learning **React** step by step
+- Exploring **AI & ML fundamentals**
+- Practicing **DSA basics**
+
+---
+
+## 🎯 Ex - Intern @ ACCENTURE Journey
+
+-  Joined as a Technology Intern
+-  Hands-on Experience with Tools & Platforms
+-  Collaborated Across Teams
+-  Upskilled Through Learning Modules
+-  Built Confidence & Career Clarity
+
+
+## 🤝 Connect With Me
+
+- 📧 Email: **riddhimaheshwari051@gmail.com**
+- 🌐 GitHub: https://github.com/riddhi348
+- 💻 LinkedIn: https://www.linkedin.com/in/riddhi-maheshwari-654a84313
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Learning+in+public.;Consistency+over+perfection.;Small+steps+every+day." />
+</p>
+
+<p align="center">
+  <sub> Growing Daily</sub>
+</p>
