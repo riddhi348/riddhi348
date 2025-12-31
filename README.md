@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA student at **Dr. Virendra Swaroop Institute of Computer Studies**
+- 🎓 BCA student at **Dr. Virendra Swarup Institute of Computer Studies**
 - 🌱 Currently learning **Web Development**, **AI**, and **Machine Learning**
 - 🧠 Focused on building **strong fundamentals**
 - 🎯 Goal: Become a confident developer.
@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 <sub>Currently learning Node.js</sub>
-
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -49,7 +48,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime"/>
 </p>
 
 ### 🤖 AI / ML
@@ -57,12 +56,6 @@
   <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 <sub>Learning Machine Learning basics</sub>
-
-### 🎨 Graphic Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=canva" />
-</p>
-<sub>Learning Canva</sub>
 
 ---
 
