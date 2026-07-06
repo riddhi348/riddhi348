@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <sub>BCA Student • Web Developer • Tech Anthusiast • Ex- Intern @ ACCENTURE</sub>
+  <sub>BCA Student • Frontend Developer • Tech Anthusiast • Ex- Intern @ ACCENTURE</sub>
 </p>
 
 <p align="center">
